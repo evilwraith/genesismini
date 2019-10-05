@@ -1,0 +1,19 @@
+# Aliases for symbols, used by symbol_request().
+alias symbol:af_alg_release af_alg
+alias symbol:af_alg_make_sg af_alg
+alias symbol:af_alg_cmsg_send af_alg
+alias symbol:af_alg_wait_for_completion af_alg
+alias symbol:zs_malloc zsmalloc
+alias symbol:zs_create_pool zsmalloc
+alias symbol:zs_free zsmalloc
+alias symbol:zs_get_total_size_bytes zsmalloc
+alias symbol:zs_destroy_pool zsmalloc
+alias symbol:af_alg_complete af_alg
+alias symbol:sndi2s1_dai sndi2s1
+alias symbol:af_alg_register_type af_alg
+alias symbol:af_alg_free_sg af_alg
+alias symbol:zs_unmap_object zsmalloc
+alias symbol:zs_map_object zsmalloc
+alias symbol:af_alg_accept af_alg
+alias symbol:af_alg_unregister_type af_alg
+alias symbol:sndi2s0_dai sndi2s0
